@@ -53,10 +53,6 @@ http://localhost:8080/swagger-ui.html
 
 For external access via Ngrok, replace `localhost:8080` with the Ngrok-generated URL.
 
-## Contributing
-
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
