@@ -40,7 +40,7 @@ This application demonstrates a simple Spring Boot application with a MySQL data
 
 The application is accessible via an Ngrok tunnel. However, the Ngrok link will expire every 2 hours. I will update the link manually as needed.
 
-**Current Link**: [https://d03c-2405-201-c038-e8b2-316c-8dea-abeb-e38d.ngrok.io)
+**Current Link**: [https://cf5e-2405-201-c038-e8b2-c57a-5fbc-f0e8-2e68.ngrok.i)
 
 
 > **Note**: This link might be inactive if not updated. Please check back later if you face any accessibility issues.
@@ -53,7 +53,7 @@ http://localhost:8080/swagger-ui.html
 ```
 To view the API documentation running on ngrok, navigate to:
 ```
-https://d03c-2405-201-c038-e8b2-316c-8dea-abeb-e38d.ngrok.io/v3/api-docs
+https://cf5e-2405-201-c038-e8b2-c57a-5fbc-f0e8-2e68.ngrok.i/v3/api-docs
 ```
 To view the API documentation, navigate to:
 ```
