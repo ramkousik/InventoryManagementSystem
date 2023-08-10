@@ -55,6 +55,10 @@ To view the API documentation when running ngrok, navigate to:
 ```
 https://5b84-2405-201-c038-e8b2-316c-8dea-abeb-e38d.ngrok.io/v3/api-docs
 ```
+To view the API documentation, navigate to:
+```
+https://app.swaggerhub.com/apis/18BQ1A0304_1/inventoryManagementSystem/1.0.0
+```
 
 For external access via Ngrok, replace `localhost:8080` with the Ngrok-generated URL.
 
